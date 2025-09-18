@@ -25,6 +25,8 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 - [Generador de tarjetas digitales para Apple Wallet (.pkpass)](https://github.com/zeliuk/pkpass-wallet-apple)  
 - [Customizador de productos FFUUSS](https://github.com/zeliuk/doityourself-handdryer-customizer)  
 - [Selenta News (Laravel)](https://github.com/zeliuk/selentanews)  
+- [Marcador de Tenis (Flutter, Google Play Store, WearOS, Widget Android)](https://play.google.com/store/apps/details?id=xyz.zeliuk.apptenis)  
+- [Messi Dress-Up (Crossbar.io, WebSockets, Docker, Google Cloud, QR Sync)](http://zeliuk.xyz/messi/)
 
 ---
 
