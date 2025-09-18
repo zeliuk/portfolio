@@ -17,7 +17,7 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 - [Aymerich Comunicació](#aymerich-comunicació)
 - [Grupo AIA – Siopeia](#siopeia)
 - [Ffuuss](#ffuuss)
-- [Common Thinking](#common-thinking)
+- [Common Thinking](#common-thinking)  
 
 **✨ Otros proyectos:** 
 - [Generador de tarjetas digitales para Apple Wallet (.pkpass)](https://github.com/zeliuk/pkpass-wallet-apple)  
