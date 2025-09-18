@@ -18,7 +18,7 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 - [Grupo AIA – Siopeia](#siopeia)
 - [Ffuuss](#ffuuss)
 - [Common Thinking](#common-thinking)  
-
+<br><br>
 **✨ Otros proyectos:** 
 - [Generador de tarjetas digitales para Apple Wallet (.pkpass)](https://github.com/zeliuk/pkpass-wallet-apple)  
 - [Customizador de productos FFUUSS](https://github.com/zeliuk/doityourself-handdryer-customizer)  
