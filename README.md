@@ -7,7 +7,7 @@ Todos ellos desarrollados en **WordPress con temas personalizados**, plugins a m
 
 ## Índice
 
-**Proyectos web:** 
+**🌐 Proyectos web:** 
 - [Helefante diseño y comunicación](#helefante-diseño-y-comunicación)
 - [Caternews Digital](#caternews-digital)
 - [Restaurants Escribà](#restaurants-escribà)
